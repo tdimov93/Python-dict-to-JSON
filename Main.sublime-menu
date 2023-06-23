@@ -1,0 +1,14 @@
+[
+    {
+        "id": "tools",
+        "caption": "Tools",
+        "mnemonic": "T",
+        "children": [
+            {
+                "id": "dict2json",
+                "command": "convert_python_dict",
+                "caption": "Python dict to JSON"
+            }
+        ]
+    }
+]
